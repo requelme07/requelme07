@@ -7,5 +7,4 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=plastic&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=plastic&logo=Redux)
 #
-### Mail: ilabaz210191@gmail.com
 ### Telegram: https://t.me/magnum40
